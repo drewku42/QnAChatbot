@@ -20,7 +20,7 @@ git clone https://github.com/drewku42/QnAChatbot.git
 
 2. Navigate to the project directory:
 
-3. Install the required packages: langchain, chainlit, dotenv, 
+3. Install the required packages: langchain, chainlit, dotenv
 
 4. Create a .env file to store your OpenAI API key:
 - OPENAI_API_KEY = your_openai_api_key_here
